@@ -32,3 +32,42 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.bgimg1-text{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    /* width: 100%; */
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.textbg{
+    background-color: #313534;
+    color: white;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 572px) {
+    .bgimg1-text{
+        width: 50%;
+        left: 25%;
+        font-size: medium;
+        
+    }
+    .textbg{
+        padding: 10px 10px;
+    }
+
+
+}
