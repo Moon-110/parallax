@@ -80,5 +80,10 @@ body {
         padding: 10px 10px;
     }
 
+    .section{
+      text-align: justify;
+      padding: 10px;
+    }
+
 
 }
